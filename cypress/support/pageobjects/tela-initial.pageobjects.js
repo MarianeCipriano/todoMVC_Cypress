@@ -22,7 +22,7 @@ class telaInicial{
         //.should('have.text', 3)
 
     }
-    validarSize(){
+    validarSizeToDO(numero){
         cy.get(concluirItem.validarListaItens)
     }
 

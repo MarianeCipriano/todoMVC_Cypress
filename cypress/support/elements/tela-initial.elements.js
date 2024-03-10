@@ -6,7 +6,8 @@ export const ELEMENTS = {
 export const FILTROS = {
 
     filtroToDo: "ul[class='filters'] li a",
-    contador: 'span[class="todo-count"]'
+    contador: 'span[class="todo-count"]',
+    
 
 }
 
