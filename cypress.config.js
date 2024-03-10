@@ -3,6 +3,6 @@ const { defineConfig } = require("cypress");
 module.exports = defineConfig({
   e2e: {
     experimentalStudio: true,
-    baseUrl: 'https://todomvc.com/'
+    baseUrl: 'https://todomvc.com/examples/react/'
   }
 })
